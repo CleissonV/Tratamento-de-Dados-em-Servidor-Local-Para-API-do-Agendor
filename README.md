@@ -15,11 +15,12 @@ Esse projeto foi construído para servir de apoio no estudo de consumo de APIs R
 
 
 ## Como utilizar?
+Caso não tenha o node instalado na sua maquina baixa nesse site https://nodejs.org/en
 
 1. Baixe esse repositório e com o seu o terminal, entre no diretório
 
-2. Rode o comando `npm install` para instalar as dependências
+3. Rode o comando `npm install` para instalar as dependências
 
-3. E pra iniciar a aplicação, rode o comando `node server`
+4. E pra iniciar a aplicação, rode o comando `node server`
 
-4. Após isso abra o navegador na porta http://localhost:3000
+5. Após isso abra o navegador na porta http://localhost:3000
